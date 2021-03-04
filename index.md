@@ -42,7 +42,7 @@ Through the unsupervised learning of the past IPO data set, we could conclude ce
 
 # References
 
-[1] 
+[1] E. Bastı, C. Kuzey, and D. Delen, “Analyzing initial public offerings' short-term performance using decision trees and SVMs,” Decision Support Systems, 21-Feb-2015. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0167923615000317. [Accessed: 04-Mar-2021]. 
 
 [2]
 
