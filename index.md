@@ -24,8 +24,8 @@ With the controversy surrounding wall street and the stock market spiking recent
 
 # Methods
 
-Using clustering methods such as hierarchical clustering and density based clustering, we can determine which input variables are a variety of input variables such as operating cost, profit or loss, and growth and revenue have impact on the first 5 trading days of the IPO. 
-We also want to try to determine the relationship between the input variables of revenue, operating cost, profit, growth of revenue to determine the positive or negative percentage of trading price for the first 5 trading days with linear regression. Based on the relationship between these features, we can try to determine a random forest for the best outcome which is the percentage of change for the first 5 trading days of the IPO. A similar study was conducted by [1] which they examined the short term IPO performance using decision trees and SVM based on the variables of market sentiment, the annual sales amounts, the total assets turnover rates, IPO stocks sales methods, the underwriting methods, the offer prices, debt ratio, and number of shares sold of Turkish companies.
+Using clustering methods such as hierarchical clustering and density based clustering, we can determine which input variables such as operating cost, profit or loss, and growth and revenue have impact on the first 5 trading days of the IPO. 
+We also want to try to determine the relationship between these input variables to determine the positive or negative percentage of trading price for the first 5 trading days with linear regression. Based on the relationship between these features, we can try to determine a random forest decision tree for the best outcome which is the percentage of change for the first 5 trading days of the IPO. A similar study was conducted by [1] which they examined the short term IPO performance using decision trees and SVM based on the variables of market sentiment, the annual sales amounts, the total assets turnover rates, IPO stocks sales methods, the underwriting methods, the offer prices, debt ratio, and number of shares sold of Turkish companies.
 
 
 # Potential Results
