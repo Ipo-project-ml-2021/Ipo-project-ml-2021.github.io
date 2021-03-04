@@ -3,9 +3,13 @@
 ### Team Members
 
 Jun Chen
+
 Joshua Hess
+
 Zhening Xu
+
 Owen Reece
+
 Hunter Germundsen
 
 # Introduction/Background
