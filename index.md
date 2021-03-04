@@ -14,7 +14,13 @@ Hunter Germundsen
 
 # Introduction/Background
 
+For day traders and stock brokers, one of the most intriguing investments are companies selling their stock publicly for the first time (IPO, or Initial Public Offering). Because these stocks are new, and the companies relatively unproven, IPO stocks are much more volatile than stocks for established companies. With this increased risk there is increased opportunity; using machine learning techniques we will try to best capitalize on this volatility by predicting whether an IPO stock will increase or decrease in the first week of trading (5 days).
+
 # Problem Definition
+
+ 
+With the controversy surrounding wall street and the stock market spiking recently, companies have more reason than ever to be fearful of going public. We seek to create a program to predict the change-in-price of an IPO after its first week on the market, to help smaller companies determine if going public is the right move for them. --This will most likely be done using models of the financial details of previous IPOs compared with the current financial details of the IPO we aim to predict.-- 
+
 
 # Methods
 
@@ -26,11 +32,12 @@ We also want to try to determine the relationship between the input variables of
 
 # Potential Results
 
-
+The main goal of this project would be to provide a prediction of the outcome of a new potential IPO by analyzing the data and outcomes of previous IPOs. It’s not uncommon to see an IPO where the opening stock price is drastically different from the stock price after 5 days, due to a variety of factors (internal to the company itself or from external sentiment). This prediction could provide key insight to users and allow a higher level of certainty for potential investors, minimizing their losses and maximizing their gains.
 
 
 # Discussion
 
+Through the unsupervised learning of the past IPO data set, we could conclude certain patterns in change-in-price of IPOs which share similar features after its first week on the market. This would help the public understand the expectations of companies in different fields. The supervised model would provide what range of change-in-price of IPOs could be expected after a week by the given data of the IPO based on the past IPO data. The Model could help the public to make investment decisions and assist the companies to make more reasonable decisions regarding IPO.
 
 
 
