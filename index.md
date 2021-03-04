@@ -44,7 +44,7 @@ Through the unsupervised learning of the past IPO data set, we could conclude ce
 
 [1] M. Lowry, M. S. Officer, and G. W. Schwert, “The Variability of IPO Initial Returns,” http://schwert.ssb.rochester.edu/, Apr-2010. [Online]. Available: http://schwert.ssb.rochester.edu/jofi_1540.pdf. [Accessed: Mar-2021].
 
-[2] 
+[2] T. H. Ly and K. Nguyen, “Do Words Matter: Predicting IPO Performance from Prospectus Sentiment,” IEEEXplore, 2020. [Online]. Available: https://ieeexplore.ieee.org/document/9031486/. [Accessed: 03-Mar-2021].
 
 [3] E. Bastı, C. Kuzey, and D. Delen, “Analyzing initial public offerings' short-term performance using decision trees and SVMs,” Decision Support Systems, 21-Feb-2015. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0167923615000317. [Accessed: 04-Mar-2021]. 
 
