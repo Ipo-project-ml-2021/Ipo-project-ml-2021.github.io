@@ -14,7 +14,7 @@ Hunter Germundsen
 
 # Introduction/Background
 
-For day traders and stock brokers, one of the most intriguing investments are companies selling their stock publicly for the first time (IPO, or Initial Public Offering). Because these stocks are new, and the companies relatively unproven, IPO stocks are much more volatile than stocks for established companies. With this increased risk there is increased opportunity; using machine learning techniques we will try to best capitalize on this volatility by predicting whether an IPO stock will increase or decrease in the first week of trading (5 days).
+For day traders and stock brokers, one of the most intriguing investments are companies selling their stock publicly for the first time (IPO, or Initial Public Offering). Because these stocks are new, and the companies relatively unproven, IPO stocks are much more volatile than stocks for established companies.  With the “extraordinarily high variability of initial returns” [1] there is increased opportunity; using machine learning techniques we will try to best capitalize on this volatility by predicting whether an IPO stock will increase or decrease in the first 5 days of trading.
 
 # Problem Definition
 
@@ -24,8 +24,8 @@ With the controversy surrounding wall street and the stock market spiking recent
 
 # Methods
 
-Using clustering methods such as hierarchical clustering and density based clustering, we can determine which input variables such as operating cost, profit or loss, and growth and revenue have impact on the first 5 trading days of the IPO. 
-We also want to try to determine the relationship between these input variables to determine the positive or negative percentage of trading price for the first 5 trading days with linear regression. Based on the relationship between these features, we can try to determine a random forest decision tree for the best outcome which is the percentage of change for the first 5 trading days of the IPO. A similar study was conducted by [1] Basti, Kuzey, and Delen which they examined the short term IPO performance using decision trees and SVM based on the variables of market sentiment, the annual sales amounts, the total assets turnover rates, IPO stocks sales methods, the underwriting methods, the offer prices, debt ratio, and number of shares sold of Turkish companies.
+“Neural network models are a popular tool in predicting IPO pricing” [2]. To contrast these, using clustering methods such as hierarchical clustering and density based clustering, we can determine which input variables such as operating cost, profit or loss, and growth and revenue have impact on the first 5 trading days of the IPO. 
+We also want to try to determine the relationship between these input variables to determine the positive or negative percentage of trading price for the first 5 trading days with linear regression. Based on the relationship between these features, we can try to determine a random forest decision tree for the best outcome which is the percentage of change for the first 5 trading days of the IPO. A similar study was conducted by [3] Basti, Kuzey, and Delen which they examined the short term IPO performance using decision trees and SVM based on the variables of market sentiment, the annual sales amounts, the total assets turnover rates, IPO stocks sales methods, the underwriting methods, the offer prices, debt ratio, and number of shares sold of Turkish companies.
 
 
 # Potential Results
@@ -42,9 +42,9 @@ Through the unsupervised learning of the past IPO data set, we could conclude ce
 
 # References
 
-[1] E. Bastı, C. Kuzey, and D. Delen, “Analyzing initial public offerings' short-term performance using decision trees and SVMs,” Decision Support Systems, 21-Feb-2015. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0167923615000317. [Accessed: 04-Mar-2021]. 
+[1] M. Lowry, M. S. Officer, and G. W. Schwert, “The Variability of IPO Initial Returns,” http://schwert.ssb.rochester.edu/, Apr-2010. [Online]. Available: http://schwert.ssb.rochester.edu/jofi_1540.pdf. [Accessed: Mar-2021].
 
-[2]
+[2] 
 
-[3]
+[3] E. Bastı, C. Kuzey, and D. Delen, “Analyzing initial public offerings' short-term performance using decision trees and SVMs,” Decision Support Systems, 21-Feb-2015. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0167923615000317. [Accessed: 04-Mar-2021]. 
 
