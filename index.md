@@ -8,6 +8,33 @@ Zhening Xu
 Owen Reece
 Hunter Germundsen
 
+# Introduction/Background
+
+# Problem Definition
+
+# Methods
+
+
+ 
+Using clustering methods such as hierarchical clustering and density based clustering, we can determine which input variables are a variety of input variables such as operating cost, profit or loss, and growth and revenue have impact on the first 5 trading days of the IPO. 
+We also want to try to determine the relationship between the input variables of revenue, operating cost, profit, growth of revenue to determine the positive or negative percentage of trading price for the first 5 trading days with linear regression. Based on the relationship between these features, we can try to determine a random forest for the best outcome which is the percentage of change for the first 5 trading days of the IPO. A similar study was conduction by  [1] which they examined the 
+
+
+# Potential Results
+
+
+
+
+# Discussion
+
+
+
+
+
+# References
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Ipo-project-ml-2021/Ipo-project-ml-2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
