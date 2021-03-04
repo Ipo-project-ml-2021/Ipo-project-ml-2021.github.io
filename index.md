@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## IPO ML Porject 
+
+### Team Members
+
+Jun Chen
+Joshua Hess
+Zhening Xu
+Owen Reece
+Hunter Germundsen
+
 
 You can use the [editor on GitHub](https://github.com/Ipo-project-ml-2021/Ipo-project-ml-2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
