@@ -12,7 +12,7 @@ Owen Reece
 
 Hunter Germundsen
 
-[Link to Midterm Report](https://ipo-project-ml-2021.github.io/MidtermReport/)
+[Link to Midterm Report](https://ipo-project-ml-2021.github.io/MidtermReport)
 
 # Introduction/Background
 
