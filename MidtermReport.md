@@ -1,6 +1,3 @@
-layout: page
-title: "IPO ML Project Midterm Report"
-permalink: /MidtermReport/
 ## IPO ML Project Midterm Report
 
 ### Team Members
