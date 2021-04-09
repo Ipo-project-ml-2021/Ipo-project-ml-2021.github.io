@@ -14,6 +14,8 @@ Hunter Germundsen
 
 [Link to Project Proposal](https://ipo-project-ml-2021.github.io/)
 
+[Link to Github Code Repository](https://github.com/jchen706/pub_ml_project)
+
 # Introduction/Background
 
 For day traders and stock brokers, one of the most intriguing investments are companies selling their stock publicly for the first time (IPO, or Initial Public Offering). Because these stocks are new, and the companies relatively unproven, IPO stocks are much more volatile than stocks for established companies. With the “extraordinarily high variability of initial returns” [1] there is increased opportunity alongside this increased risk; using machine learning techniques we will try to best capitalize on this volatility by predicting whether an IPO stock will increase or decrease in the first 5 business days of trading.
