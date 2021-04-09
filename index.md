@@ -1,4 +1,4 @@
-## IPO ML Project 
+## IPO ML Project Proposal Report
 
 ### Team Members
 
