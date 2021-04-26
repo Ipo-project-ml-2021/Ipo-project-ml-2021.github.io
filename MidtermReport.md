@@ -14,6 +14,8 @@ Hunter Germundsen
 
 [Link to Project Proposal](https://ipo-project-ml-2021.github.io/)
 
+[Link to Final Report](https://ipo-project-ml-2021.github.io/)
+
 [Link to Github Code Repository](https://github.com/jchen706/pub_ml_project)
 
 # Introduction/Background
