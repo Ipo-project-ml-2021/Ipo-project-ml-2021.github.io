@@ -1,6 +1,6 @@
 
 
-<div style="width:100%">
+<div style="width:200px;">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
