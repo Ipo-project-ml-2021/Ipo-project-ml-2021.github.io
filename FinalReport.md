@@ -2,15 +2,15 @@
 
 ### Team Members
 
-Jun Chen
+Jun Chen (Data Collection, DBSCAN)
 
-Joshua Hess
+Joshua Hess (Video Editing, Results, Conclusions)
 
-Zhening Xu
+Zhening Xu (SVM, Linear Regression, Random Forest)
 
-Owen Reece
+Owen Reece (Linear Regression, Introdution and Overview)
 
-Hunter Germundsen
+Hunter Germundsen (Neural Network, Github Pages)
 
 [Link to Project Proposal](https://ipo-project-ml-2021.github.io/)
 
@@ -202,5 +202,10 @@ We believe that our main issues for this project lied within the data, not withi
 [2] Rudden, J. (2021, January 28). Number of IPOs in the U.S. 1999-2020. Statista. https://www.statista.com/statistics/270290/number-of-ipos-in-the-us-since-1999/#:~:text=In%202020%2C%20there%20were%20407,as%20in%20the%20previous%20year. 
 
 [3] All 2021 IPOs (so far). Stock Analysis. (2021, April 27). https://stockanalysis.com/ipos/2021-list/#:~:text=There%20have%20been%20442%20IPOs,44%20IPOs%20by%20this%20date. 
+
+
+
+
+
 
 
